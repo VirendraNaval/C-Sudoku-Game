@@ -1,1 +1,1 @@
-# C-Sudoku-Game
+# Sudoku-Game
